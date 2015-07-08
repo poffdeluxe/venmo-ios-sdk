@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.source_files  = 'venmo-sdk/**/*.{h,m}'
   s.dependency 'VENCore', '~> 3.1.2'
   s.dependency 'SSKeychain', '~> 1.2.3'
-  s.dependency 'CMDQueryStringSerialization', '~> 0.2.0'
+  s.dependency 'CMDQueryStringSerialization', '~> 0.3.0'
 end
